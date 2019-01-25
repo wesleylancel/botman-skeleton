@@ -1,4 +1,10 @@
 {
+    "botman/botman": {
+        "version": "2.4.1"
+    },
+    "botman/driver-web": {
+        "version": "1.5.1"
+    },
     "doctrine/annotations": {
         "version": "1.0",
         "recipe": {
@@ -41,8 +47,17 @@
             "ref": "70062abc2cd58794d2a90274502f81b55cd9951b"
         }
     },
+    "evenement/evenement": {
+        "version": "v3.0.1"
+    },
     "monolog/monolog": {
         "version": "1.24.0"
+    },
+    "mpociot/pipeline": {
+        "version": "1.0.2"
+    },
+    "opis/closure": {
+        "version": "3.1.5"
     },
     "psr/cache": {
         "version": "1.0.1"
@@ -56,6 +71,27 @@
     "psr/simple-cache": {
         "version": "1.0.1"
     },
+    "react/cache": {
+        "version": "v0.5.0"
+    },
+    "react/dns": {
+        "version": "v0.4.16"
+    },
+    "react/event-loop": {
+        "version": "v1.0.0"
+    },
+    "react/promise": {
+        "version": "v2.7.1"
+    },
+    "react/promise-timer": {
+        "version": "v1.5.0"
+    },
+    "react/socket": {
+        "version": "v0.8.12"
+    },
+    "react/stream": {
+        "version": "v1.1.0"
+    },
     "sensio/framework-extra-bundle": {
         "version": "5.2",
         "recipe": {
@@ -64,6 +100,9 @@
             "version": "5.2",
             "ref": "fb7e19da7f013d0d422fa9bce16f5c510e27609b"
         }
+    },
+    "spatie/macroable": {
+        "version": "1.0.0"
     },
     "symfony/cache": {
         "version": "v4.2.2"
@@ -211,6 +250,9 @@
     },
     "symfony/yaml": {
         "version": "v4.2.2"
+    },
+    "tightenco/collect": {
+        "version": "v5.7.22"
     },
     "twig/twig": {
         "version": "v2.6.2"
